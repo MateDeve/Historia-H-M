@@ -5,6 +5,13 @@ body{
     margin: 0;
     padding: 0;
 }
+#navegacion{
+    background: #11233f;
+    text-align: left;
+}
+#navegacion a{
+    color: #fff;
+}
 #container{
     width: 70%;
     padding: 1em;
