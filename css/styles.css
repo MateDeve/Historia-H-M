@@ -12,6 +12,11 @@ body{
     border: 1px solid #000;
     margin: 0 auto;
 
-} #container h1{
+} 
+#cabecera{
+    background: #11233f;
+    color: #ffffff;
+}
+#container h1{
     font-size: 20px;
 }
